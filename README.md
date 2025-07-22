@@ -3,7 +3,7 @@ The goal of this desktop app was to build something useful to my day-to-day life
 
 <img width="891" height="714" alt="image" src="https://github.com/user-attachments/assets/22b45d93-3501-4204-bb69-eb01301691eb" />
 
-## 🚀 Instructions to run 
+## 🚀 Instructions to run the app
 -	Download zip file
 -	Extract all 
 -	Run “main.py”
