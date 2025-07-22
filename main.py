@@ -8,10 +8,10 @@ WORD_FONT = ("Arial", 60, "bold")
 words_to_learn = []
 # ---------------------- GENERATE RANDOM WORDS ----------------------- #
 try:
-    with open("data/words_to_learn.csv") as file:
+    with open("data/french_words.csv") as file:
         words = pandas.read_csv(file)
 except FileNotFoundError:
-    with open("data/french_words.csv") as file:
+    with open("data/words_to_learn.csv") as file:
         words = pandas.read_csv(file)
 finally:
     to_learn = words.to_dict(orient="records")
