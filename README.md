@@ -7,6 +7,7 @@ The Graphical User Interface was made with the Tkinter framework and the Data Vi
 
 ## 🚀 Instructions to run the app
 -	Download zip file
--	Extract all 
+-	Extract all
+-	Install pandas 
 -	Run “main.py”
 
